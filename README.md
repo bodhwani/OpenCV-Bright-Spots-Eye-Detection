@@ -41,9 +41,9 @@ python pupil_detect.py
 ![alt text](/outputImages/singleSpot.png "Eye Point Detection")
 <br>
 - Multiple spots detection
-<br>
+
 ![alt text](/outputImages/multiple1.png "Multiple points detection lights")
-<br>
+
 ![alt text](/outputImages/multiple2.png "Multiple points detection dog")
 
 
