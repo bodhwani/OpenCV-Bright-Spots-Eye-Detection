@@ -9,10 +9,7 @@ Be sure to bring your eye pretty close to the camera, and to be well-lit.
 
 It uses OpenCV cv2 (which uses numpy) to do all the matrix math, camera, and display stuff.
 
-Unfortunately, due to the hackish nature of this program, it will probably only work out of the box on webcams with a similar resolution to mine. If you want it to work on a different resolution (or angle) camera, you will have to tweak it.<br>
-
-
-<br>
+Unfortunately, due to the hackish nature of this program, it will probably only work out of the box on webcams with a similar resolution to mine. If you want it to work on a different resolution (or angle) camera, you will have to tweak it.
 
 ### Import packages
 - import cv2
@@ -40,14 +37,14 @@ python pupil_detect.py
 # Some screenshots - Output 
 
 - Single spot detection
- <br>
- ![alt text](/outputImages/singleSpot.png "Eye Point Detection")
+
+![alt text](/outputImages/singleSpot.png "Eye Point Detection")
 <br>
-- - Single spot detection
+- Multiple spots detection
 <br>
- ![alt text](/outputImages/multiple1.png "Multiple points detection lights")
+![alt text](/outputImages/multiple1.png "Multiple points detection lights")
 <br>
- ![alt text](/outputImages/multiple2.png "Multiple points detection dog")
+![alt text](/outputImages/multiple2.png "Multiple points detection dog")
 
 
 
